@@ -1,7 +1,0 @@
-label firebrigade
-form 00006
-scripter 000
-page 06
-row 6
-column 2
-size None

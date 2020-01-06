@@ -1,7 +1,0 @@
-label car
-form 00008
-scripter 000
-page 08
-row 8
-column 0
-size None

@@ -1,7 +1,0 @@
-label person
-form 00007
-scripter 000
-page 07
-row 7
-column 1
-size None

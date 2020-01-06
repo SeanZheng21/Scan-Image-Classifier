@@ -1,7 +1,0 @@
-label casualty
-form 00006
-scripter 000
-page 06
-row 6
-column 0
-size None

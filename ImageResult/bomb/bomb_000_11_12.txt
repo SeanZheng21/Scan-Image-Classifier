@@ -1,7 +1,0 @@
-label bomb
-form 00011
-scripter 000
-page 11
-row 11
-column 2
-size None
