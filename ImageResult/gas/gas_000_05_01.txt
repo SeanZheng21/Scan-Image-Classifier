@@ -1,0 +1,7 @@
+label gas
+form 00005
+scripter 000
+page 05
+row 5
+column 1
+size None

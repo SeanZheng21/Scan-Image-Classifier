@@ -1,0 +1,7 @@
+label casualty
+form 00004
+scripter 000
+page 04
+row 4
+column 2
+size None
