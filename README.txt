@@ -1,1 +1,0 @@
-Scan Image Extractor Classifier
