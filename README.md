@@ -4,6 +4,11 @@ This project contains a scan image extractor and classifier. The goal of the pro
 
 The database was obtained by asking 35 volunteer scripters to reproduce each of the 14 icons, in 3 different sizes (large, medium, small). It is a set of 14 icons which can be used by emergency services in a crisis situation.
 
+## Used technologies
+* C++
+* OpenCV
+* SURF classifier
+
 ## Scan image example
 ![Picture1](https://github.com/SeanZheng21/Scan-Image-Classifier/blob/master/screenshots/Picture1.png)
 
@@ -13,6 +18,8 @@ The database was obtained by asking 35 volunteer scripters to reproduce each of 
 
 ## Classification Results
 ![Results](https://github.com/SeanZheng21/Scan-Image-Classifier/blob/master/screenshots/results.png)
+
+![match](https://github.com/SeanZheng21/Scan-Image-Classifier/blob/master/screenshots/match.png)
 
 ## Workflow
 The steps of the project correspond to these 4 parts:
